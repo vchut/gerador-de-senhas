@@ -3,3 +3,17 @@ __pycache__/
 .env
 .vscode/
 .env
+# Não subir ambiente virtual (caso você crie futuramente)
+venv/
+
+# Não subir arquivos temporários
+_pycache_/
+
+# Não subir arquivos de sistema
+.DS_Store
+
+# Não subir configs locais de editor (caso apareçam)
+.vscode/
+
+# Não subir variáveis privadas (caso você crie futuramente)
+.env
